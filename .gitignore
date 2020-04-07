@@ -1,3 +1,4 @@
+.idea
 WebApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
 WebApi/bin/Debug/netcoreapp3.1/appsettings.json
 WebApi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
@@ -107,3 +108,5 @@ WebApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.d
 WebApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 WebApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
 WebApi/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+WebApi/.idea/.idea.WebApi/.idea/contentModel.xml
+WebApi/appsettings.json
