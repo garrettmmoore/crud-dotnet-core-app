@@ -119,3 +119,6 @@
 /Users/gm/RiderProjects/WebApi/WebApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 /Users/gm/RiderProjects/WebApi/WebApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/gm/RiderProjects/WebApi/WebApi/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/gm/RiderProjects/WebApi/WebApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/gm/RiderProjects/WebApi/WebApi/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/gm/RiderProjects/WebApi/WebApi/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
