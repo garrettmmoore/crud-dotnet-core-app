@@ -8419,7 +8419,7 @@
       "outputPath": "/Users/gm/RiderProjects/WebApi/WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/gm/.config/NuGet/NuGet.Config"
+        "/Users/gm/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

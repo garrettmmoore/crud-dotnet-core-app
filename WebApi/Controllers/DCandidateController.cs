@@ -15,6 +15,7 @@ namespace WebApi.Controllers
     {
         private readonly DonationDBContext _context;
 
+        // We need this instance in order to perform database operations 
         public DCandidateController(DonationDBContext context)
         {
             _context = context;
@@ -47,6 +48,7 @@ namespace WebApi.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutDCandidate(int id, DCandidate dCandidate)
         {
+            // update the id
             dCandidate.id = id;
 
             _context.Entry(dCandidate).State = EntityState.Modified;
