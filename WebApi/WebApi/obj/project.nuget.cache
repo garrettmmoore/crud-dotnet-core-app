@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQcK5pDTshKVahZebq08Cc/lZVtKhXl4edmg0u+EGXLbzMMRvgMLtua2Lz1XMMqaRukOxG1ryvx1P1kwg4e3wg==",
+  "dgSpecHash": "yQhINhGry9jScoMYRRXghHjJZoc64mA3y9DgCDzfFEE5NPzathJQEl3V76xoPSmQoLDZb9SMYfbU4Rct6gXe4g==",
   "success": true,
-  "projectFilePath": "/Users/gm/RiderProjects/WebApi/WebApi/WebApi.csproj",
+  "projectFilePath": "/Users/gm/RiderProjects/crud-dotnet-core-app/WebApi/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/gm/.nuget/packages/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "/Users/gm/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

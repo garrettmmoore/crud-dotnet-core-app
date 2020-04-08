@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gm/RiderProjects/WebApi/WebApi/WebApi.csproj": {}
+    "/Users/gm/RiderProjects/crud-dotnet-core-app/WebApi/WebApi/WebApi.csproj": {}
   },
   "projects": {
-    "/Users/gm/RiderProjects/WebApi/WebApi/WebApi.csproj": {
+    "/Users/gm/RiderProjects/crud-dotnet-core-app/WebApi/WebApi/WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gm/RiderProjects/WebApi/WebApi/WebApi.csproj",
+        "projectUniqueName": "/Users/gm/RiderProjects/crud-dotnet-core-app/WebApi/WebApi/WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "/Users/gm/RiderProjects/WebApi/WebApi/WebApi.csproj",
+        "projectPath": "/Users/gm/RiderProjects/crud-dotnet-core-app/WebApi/WebApi/WebApi.csproj",
         "packagesPath": "/Users/gm/.nuget/packages/",
-        "outputPath": "/Users/gm/RiderProjects/WebApi/WebApi/obj/",
+        "outputPath": "/Users/gm/RiderProjects/crud-dotnet-core-app/WebApi/WebApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gm/.nuget/NuGet/NuGet.Config"
