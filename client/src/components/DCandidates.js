@@ -36,9 +36,8 @@ const DCandidates = ({ classes, ...props }) => {
 
   useEffect(() => {
     props.fetchAllDCandidates();
-  }, [props]); //componentDidMount
+  }, []);
 
-  //toast msg.
   const { addToast } = useToasts();
 
   const onDelete = id => {
@@ -47,6 +46,7 @@ const DCandidates = ({ classes, ...props }) => {
         addToast("Deleted successfully", { appearance: "info" })
       );
   };
+
   return (
     <Paper className={classes.paper} elevation={3}>
       <Grid container>
